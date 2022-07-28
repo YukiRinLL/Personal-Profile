@@ -134,7 +134,7 @@ var canhtml5=function(){
         var r = deg*Math.PI/180;   
         canvashtml5.clearRect(0,0,canwidth,canwidth);   
         canvashtml5.beginPath();  
-        canvashtml5.strokeStyle = "#F1652A"; 
+        canvashtml5.strokeStyle = "#ffd3be";
         canvashtml5.lineWidth = 10; 
         canvashtml5.arc(canwidth/2,canwidth/2,radius,0-1/2*Math.PI,r-1/2*Math.PI,false); //
         canvashtml5.stroke();
@@ -156,7 +156,7 @@ var cancss3=function(){
         var r = deg*Math.PI/180;   
        	canvascss3.clearRect(0,0,canwidth,canwidth);   
         canvascss3.beginPath();  
-        canvascss3.strokeStyle = "#409AD8"; 
+        canvascss3.strokeStyle = "#b1deff";
         canvascss3.lineWidth = 10; 
        	canvascss3.arc(canwidth/2,canwidth/2,radius,0-1/2*Math.PI,r-1/2*Math.PI,false); //
         canvascss3.stroke();
@@ -181,7 +181,7 @@ var canjs=function(){
         var r = deg*Math.PI/180;   
         canvasjs.clearRect(0,0,canwidth,canwidth);   
         canvasjs.beginPath();  
-        canvasjs.strokeStyle = "#ECB12C"; 
+        canvasjs.strokeStyle = "#ffe9be";
         canvasjs.lineWidth = 10; 
         canvasjs.arc(canwidth/2,canwidth/2,radius,0-1/2*Math.PI,r-1/2*Math.PI,false); //
         canvasjs.stroke();
@@ -203,7 +203,7 @@ var canjq=function(){
         var r = deg*Math.PI/180;   
         canvasjq.clearRect(0,0,canwidth,canwidth);   
         canvasjq.beginPath();  
-        canvasjq.strokeStyle = "#75B143"; 
+        canvasjq.strokeStyle = "#dbffc3";
         canvasjq.lineWidth = 10; 
         canvasjq.arc(canwidth/2,canwidth/2,radius,0-1/2*Math.PI,r-1/2*Math.PI,false); //
         canvasjq.stroke();
@@ -225,7 +225,7 @@ var canbs=function(){
         var r = deg*Math.PI/180;   
         canvasbs.clearRect(0,0,canwidth,canwidth);   
         canvasbs.beginPath();  
-        canvasbs.strokeStyle = "#583F85"; 
+        canvasbs.strokeStyle = "#d4beff";
         canvasbs.lineWidth = 10; 
         canvasbs.arc(canwidth/2,canwidth/2,radius,0-1/2*Math.PI,r-1/2*Math.PI,false); //
         canvasbs.stroke();
@@ -248,7 +248,7 @@ var ps=function(){
         var r = deg*Math.PI/180;   
         canvasps.clearRect(0,0,canwidth,canwidth);   
         canvasps.beginPath();  
-        canvasps.strokeStyle = "#031A3A"; 
+        canvasps.strokeStyle = "#aacdff";
         canvasps.lineWidth = 10; 
         canvasps.arc(canwidth/2,canwidth/2,radius,0-1/2*Math.PI,r-1/2*Math.PI,false); //
         canvasps.stroke();

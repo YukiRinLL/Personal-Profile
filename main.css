@@ -575,22 +575,22 @@ section.page_two .con_wrap,section.page_three .con_wrap,section.page_four .con_w
 
 .page_two {
     display: none;
-    background: #F4F4F4
+    background: #262626
 }
 
 .page_three {
     display: none;
-    background: #fff
+    background: #262626
 }
 
 .page_four {
     display: none;
-    background: #F4F4F4
+    background: #262626
 }
 
 .page_five {
     display: none;
-    background: #fff
+    background: #262626
 }
 
 .con_wrap {
@@ -617,7 +617,7 @@ section.page_two .con_wrap,section.page_three .con_wrap,section.page_four .con_w
     position: absolute;
     bottom: -20px;
     left: 0;
-    border: 1px dashed #9eddf2;
+    border: 1px dashed #ffffff;
     -webkit-animation: 25s left_widthsmaller linear 1s infinite;
     -moz-animation: 25s left_widthsmaller linear 1s infinite;
     -ms-animation: 25s left_widthsmaller linear 1s infinite;
@@ -683,7 +683,7 @@ aside a span {
     display: none;
     position: absolute;
     top: -2px;
-    color: #80d6f2;
+    color: #FFFFFF;
     right: 25px;
     font-size: 1.6rem;
     text-align: right
@@ -694,11 +694,11 @@ aside a:hover span {
 }
 
 aside .cur_a {
-    background: #80d6f2
+    background: #FFFFFF
 }
 
 aside .cur_a span {
-    color: #80d6f2;
+    color: #FFFFFF;
     text-decoration: underline
 }
 
@@ -748,7 +748,7 @@ nav .nav_wrap {
 }
 
 .nav_bar ul li a:hover {
-    color: #80d6f2
+    color: #FFFFFF
 }
 
 .nav_bar ul li a:after {
@@ -758,7 +758,7 @@ nav .nav_wrap {
     position: absolute;
     left: 0;
     bottom: 10px;
-    background: #80d6f2;
+    background: #FFFFFF;
     transition: width .5s ease-in;
     -moz-transition: width .5s ease-in;
     -webkit-transition: width .5s ease-in;
@@ -863,7 +863,7 @@ nav .nav_wrap {
 }
 
 .down_arrow a:hover {
-    border: 1px solid #80d6f2
+    border: 1px solid #FFFFFF
 }
 
 .down_arrow a:hover span {
@@ -974,7 +974,7 @@ nav .nav_wrap {
     position: absolute;
     top: 0;
     left: 140px;
-    border-left: solid 1px #80d6f2
+    border-left: solid 1px #FFFFFF
 }
 
 .work_con:last-child .work_text {
@@ -993,7 +993,7 @@ nav .nav_wrap {
     padding: 40px 0 40px 0;
     font-size: 1.7rem;
     color: #fff;
-    background: #E86064;
+    background: #565656;
     text-align: center;
     -webkit-border-radius: 50%;
     border-radius: 50%;

@@ -171,7 +171,7 @@ aside{
 			display: none;
 			position: absolute;
 			top: -2px;
-			color: $light_blue;
+			color: #FFFFFF;
 			right: 25px;
 			font-size: 1.6rem;
 			text-align: right;
@@ -182,10 +182,10 @@ aside{
 	}
 
 	.cur_a{
-		background:$light_blue;
+		background:#FFFFFF;
 	}
 	.cur_a span{
-		color: $light_blue;
+		color: #FFFFFF;
 		text-decoration: underline;
 	}
 }
@@ -228,7 +228,7 @@ nav{
 				
 			}
 			a:hover{
-				color: $light_blue;
+				color: #FFFFFF;
 			}
 			a:after{
 				width: 0;
@@ -237,7 +237,7 @@ nav{
 				position: absolute;
 				left: 0;
 				bottom: 10px;
-				background:$light_blue;
+				background:#FFFFFF;
 				@include transition(width,0.5s,ease-in);
 			}
 			a:hover:after{
@@ -320,7 +320,7 @@ nav{
 		}
 	}
 	a:hover{
-		border: 1px solid $light_blue;
+		border: 1px solid #FFFFFF;
 		span{
 			background: url(../images/sprite_img.png) no-repeat -18px -50px;	
 		}
@@ -429,7 +429,7 @@ nav{
 	position: absolute;
 	top: 0;
 	left: 140px;
-	border-left: solid 1px $light_blue;
+	border-left: solid 1px #FFFFFF;
 }
 
 .work_con:last-child .work_text{
@@ -556,14 +556,14 @@ ul.con_style{
 		input[type="text"]{
 			width: 100%;
 			float: left;
-		    background: #ffffff;
+		    background: #262626;
 		    color: $black;		    
 		}
 		
 		textarea {
 		    width: 100%;
 		    height: 180px;
-		    background: #ffffff;
+		    background: #262626;
 		    resize:none;
 		    color: $black;	
 		}
